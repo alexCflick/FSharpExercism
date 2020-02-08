@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj": {}
+    "C:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj": {}
   },
   "projects": {
-    "c:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj": {
+    "C:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj",
+        "projectUniqueName": "C:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj",
         "projectName": "HelloWorld",
-        "projectPath": "c:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj",
+        "projectPath": "C:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\HelloWorld.fsproj",
         "packagesPath": "C:\\Users\\flick\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\obj\\",
+        "outputPath": "C:\\Users\\flick\\Exercism\\FSharpExercism\\fsharp\\hello-world\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
